@@ -7,10 +7,10 @@ public class Runner {
 
 		
 		
-			int a=1;
+			int a=60;
 			int c=4;
 			int b=a+c;
-			System.out.println(b);
+			System.out.println("The sum of all values: "+b);
 		
 	
 	
