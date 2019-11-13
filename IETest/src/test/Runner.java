@@ -8,7 +8,7 @@ public class Runner {
 		
 		
 			int a=60;
-			int c=4;
+			int c=40;
 			int b=a+c;
 			System.out.println("The sum of all values: "+b);
 		
